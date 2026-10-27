@@ -1,0 +1,6 @@
+body { display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0; font-family: sans-serif; background: #f0f0f0; }
+.calculator { background: #fff; padding: 2rem; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,.2); text-align: center; }
+input { width: 80px; padding: .4rem; margin: .3rem; font-size: 1rem; }
+.buttons { margin: .8rem 0; }
+button { padding: .5rem 1rem; margin: .2rem; font-size: 1.1rem; cursor: pointer; }
+#result { margin-top: .8rem; font-size: 1.2rem; font-weight: bold; }
